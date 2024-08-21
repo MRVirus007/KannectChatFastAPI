@@ -1,5 +1,4 @@
 uvicorn
 fastapi
 sentence_transformers
-torch
 numpy

@@ -1,6 +1,5 @@
 from fastapi import FastAPI, HTTPException
 from sentence_transformers import SentenceTransformer, util
-import torch
 import json
 
 app = FastAPI()
